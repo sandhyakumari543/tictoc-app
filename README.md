@@ -1,8 +1,12 @@
 #Tic-Tac-Toe React App
+
 Welcome to the Tic-Tac-Toe React application! This is a simple two-player game where players take turns marking spaces in a 3x3 grid to achieve victory.
 
 #Live Demo
-Check out the live demo here.
+Check out the live demo here
+https://sandhyakumari543.github.io/tictoc-app/
+
+.
 
 #Table of Contents
 Getting Started
