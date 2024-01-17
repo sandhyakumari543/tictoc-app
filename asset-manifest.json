@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tictoc-app/static/css/main.aee58db6.css",
+    "main.js": "/tictoc-app/static/js/main.272f2bdc.js",
+    "static/js/787.e76bf391.chunk.js": "/tictoc-app/static/js/787.e76bf391.chunk.js",
+    "index.html": "/tictoc-app/index.html",
+    "main.aee58db6.css.map": "/tictoc-app/static/css/main.aee58db6.css.map",
+    "main.272f2bdc.js.map": "/tictoc-app/static/js/main.272f2bdc.js.map",
+    "787.e76bf391.chunk.js.map": "/tictoc-app/static/js/787.e76bf391.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aee58db6.css",
+    "static/js/main.272f2bdc.js"
+  ]
+}
